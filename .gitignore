@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+entities/input/**
+entities/output/**
+request-classes/output/**
+request-classes/input/**
+.idea/**
