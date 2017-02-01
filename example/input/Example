@@ -1,0 +1,3 @@
+POST - /api/examples - Example - createExample - b ExampleDto exampleDto
+GET - /api/examples-filtered - List<Example> - getAllExamplesFiltered - p Long testId - p String begin - p String end - p String status
+POST - /api/test - Void - testExample - b ExampleDto exampleDto
